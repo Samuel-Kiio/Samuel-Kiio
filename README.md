@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Samuel 👋👨‍💻
+I am a graduate Electrical and Electronics Engineer and Data Scientist who is passionate about using technology to solve real world problems to elevate people and improve communities.
+My skills in Data include: Analytics, Data Engineering, Machine Learning, Artificial Intelligence and Big data.
+Some technologies I enjoy working with are Python, SQL, Tableau, TensorFlow, x86 Assembly language, arduino and microcontrollers.
+
+**Strong Languages**: 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white & https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+
 
 <!--
 **Samuel-Kiio/Samuel-Kiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
