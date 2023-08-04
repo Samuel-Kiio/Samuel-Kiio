@@ -1,5 +1,5 @@
 ### Hi, I'm Samuel 👋👨‍💻
-I am a graduate Electrical and Electronics Engineer and Data Scientist who is passionate about using technology to solve real world problems to elevate people and improve communities.
+I am a graduate Electrical and Electronics Engineer and Data Scientist who is passionate about using technology for solving real world problems to elevate people and improve communities.
 
 My skills in Data include: Analytics, Data Engineering, Machine Learning, Artificial Intelligence and Big data.
 
