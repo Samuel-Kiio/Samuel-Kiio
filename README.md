@@ -1,4 +1,7 @@
 ### Hi, I'm Samuel 👋👨‍💻
+
+![Banner](https://github.com/Samuel-Kiio/Samuel-Kiio/assets/114439636/ad960c41-2917-441f-85e9-6f9cc77283f4)
+
 I am a graduate Electrical and Electronics Engineer and Data Scientist who is passionate about using technology for solving real world problems to elevate people and improve communities.
 
 My skills in Data include: Analytics, Data Engineering, Machine Learning, Artificial Intelligence and Big data.
