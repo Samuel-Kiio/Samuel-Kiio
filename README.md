@@ -10,6 +10,7 @@ Some technologies I enjoy working with are Python, SQL, Tableau, TensorFlow, x86
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ![SocialMediaGIF](https://github.com/Samuel-Kiio/Samuel-Kiio/assets/114439636/af72e6aa-ba23-449a-919d-4d6c26ee9cc6)
 
 
