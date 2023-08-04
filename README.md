@@ -17,7 +17,7 @@ Some technologies I enjoy working with are Python, SQL, Tableau, TensorFlow, x86
   <img
     src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt= "LinkedIn Logo Badge"
-    >
+  >
 </a>
 
 
